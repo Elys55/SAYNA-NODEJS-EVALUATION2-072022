@@ -1,0 +1,2 @@
+# SAYNA-NODEJS-EVALUATION2-072022
+#Mon pc se planté, donc rien ne marche comme le gitbash alors j'envoie du fichier zip
